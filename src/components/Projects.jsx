@@ -38,6 +38,12 @@ export const projects = [
     description: "Developed Portal model in Blender and made it as webapp using r3f and Shaders",
   },
   {
+    title: "Metacommerce360",
+    url: "https://metacommerce360.onrender.com/",
+    image: "projects/Metacommerce360.png",
+    description: "VR and AR based E-commerce platform with cryptocurrency transactions",
+  },
+  {
     title: "CGPA Calculator",
     url: "https://cgpa-calculator.onrender.com/",
     image: "projects/CGPA-Calculator.png",
