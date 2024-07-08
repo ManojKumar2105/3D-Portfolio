@@ -44,6 +44,12 @@ export const projects = [
     description: "VR and AR based E-commerce platform with cryptocurrency transactions",
   },
   {
+    title: "Minecraft Clone",
+    url: "https://manoj-minecraft-clone.onrender.com/",
+    image: "projects/Minecraft-clone.png",
+    description: "Minecraft game clone developed using React-Three-Fiber",
+  },
+  {
     title: "CGPA Calculator",
     url: "https://cgpa-calculator.onrender.com/",
     image: "projects/CGPA-Calculator.png",
